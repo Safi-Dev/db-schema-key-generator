@@ -1,6 +1,6 @@
 # DbSchema Key Generator
 
-This Python script generates keys for DbSchema based on a username using a custom algorithm.
+This Python script generates keys for DbSchema based on a username using a custom algorithm. ONLY USED FOR TESTING and uploaded for archiving, it is a great program and you should purchase it if you would like to use it.
 
 ## Usage
 
